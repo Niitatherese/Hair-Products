@@ -38,7 +38,7 @@ body {
     color: white;
     height: 50px;
     width: 120px;
-    margin-left: 250px;
+    margin-left: 290px;
     margin-top:10px;
     font-size:16px;
     text-decoration: none;
@@ -101,6 +101,12 @@ button:hover {
 .bild4 { grid-area: bild4; }
 .knapp3 { grid-area: knapp3; }
 .knapp4 { grid-area: knapp4; }
+
+
+.bild-2 {
+width: 270px;
+margin-top: 30px;
+}
 
 .bild-3 {
     width:260px;
